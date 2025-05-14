@@ -1,0 +1,4 @@
+aiofiles==24.1.0
+aiogram==3.20.0.post0
+aiohttp==3.11.18
+yadisk==3.3.0
